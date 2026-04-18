@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=800&color=00E5A0&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Rahul+Nayak+%F0%9F%91%8B;Frontend+dev+exploring+the+backend;Learning+in+public%2C+shipping+in+code;Always+building%2C+always+breaking+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=800&color=00E5A0&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Rahul+Nayak+%F0%9F%91%8B;Frontend+dev+exploring+the+backend;Always+building%2C+always+breaking+things" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -16,9 +16,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RahulNayak6467/RahulNayak6467/output/github-contribution-grid-snake-dark.svg" alt="snake eating contributions" />
-</p>
 
 ---
 
@@ -33,15 +30,14 @@ const rahul = {
   studying:  "Computer Science @ NIT Rourkela",
   focus:     "Frontend → Backend",
   currently: ["Node.js internals", "Express", "Supabase", "DSA"],
-  philosophy: "fundamentals first, frameworks second",
-  funFact:   "I build naive versions before reaching for a library",
+  funFact:   "I like to break things at 3 AM",
 };
 ```
 
 - 🎓 CS undergrad at **NIT Rourkela**
 - 🌐 Comfortable on the **frontend**, now exploring the **backend**
-- 🧠 Sharpening **DSA** on the side (Striver's A2Z sheet)
-- 🌱 Always learning — one repo at a time
+- 🧠 Sharpening **DSA** 
+- 🌱 Always learning
 
 ---
 
