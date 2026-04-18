@@ -1,130 +1,127 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00e5a0,100:00b4ff&height=230&section=header&text=Rahul%20Nayak&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20CS%20@%20NIT%20Rourkela&descSize=18&descAlignY=55&animation=fadeIn)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00E5A0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rahul+Nayak;Full-stack+dev+in+the+making;Always+shipping%2C+always+learning" alt="Typing SVG" />
+  </a>
+</h1>
 
-<div align="center">
+<p align="center">
+  <em>Backend-leaning full-stack developer. Building on the web, one repo at a time.</em>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5A0&center=true&vCenter=true&random=false&width=600&lines=Building+things+that+live+on+the+web+%F0%9F%8C%90;React+%2B+TypeScript+%2B+Node.js+enthusiast+%E2%9A%A1;Depth+over+speed.+Fundamentals+over+frameworks.;First-year+CS+student+%40+NIT+Rourkela+%F0%9F%8E%93)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RahulNayak6467&label=Profile%20views&color=00e5a0&style=flat" alt="profile views" />
+  <a href="https://github.com/RahulNayak6467?tab=followers">
+    <img src="https://img.shields.io/github/followers/RahulNayak6467?label=Followers&style=flat&color=00e5a0" alt="followers" />
+  </a>
+  <a href="https://github.com/RahulNayak6467">
+    <img src="https://img.shields.io/github/stars/RahulNayak6467?label=Stars&style=flat&color=00e5a0" alt="stars" />
+  </a>
+</p>
 
-</div>
+---
 
-<br/>
+### 🧭 About Me
 
-## `> whoami` 🧑‍💻
+- 🎓 CS undergrad at **NIT Rourkela**
+- 💻 Focused on **full-stack development** with a lean toward the backend
+- 🧠 Currently sharpening **DSA** alongside shipping projects
+- 🌱 Learning in public — fundamentals first, frameworks second
 
-```typescript
-const rahul = {
-  location: "NIT Rourkela, India",
-  role: "First-Year CS Undergrad & Full-Stack Developer",
-  philosophy: "Depth-first, project-driven learning",
-  currentFocus: ["Building production-grade web apps", "Backend architecture", "DSA (Striver's A2Z)"],
-  funFact: "I debug with console.log and I'm not ashamed of it",
-};
-```
+---
 
-<br/>
+### 🛠️ Tech Stack
 
-## ⚡ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,vite,supabase&theme=dark" alt="stack row 1" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,npm,pnpm&theme=dark" alt="stack row 2" />
+</p>
 
-<div align="center">
+<p align="left">
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="framer motion" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="tanstack query" />
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="react router" />
+</p>
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+---
 
-### 🛠️ Backend & Data
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🚀 Featured Projects
 
-### 🧰 Tools & Ecosystem
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-
-</div>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<div align="center">
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏨 [StatySafe (ResQify)](https://github.com/RahulNayak6467)
-**AI-Powered Hotel Emergency Management**
-
-`React` `TypeScript` `Tailwind CSS v4` `Supabase` `Express` `Claude API`
-
-> Role-based emergency system with Guest, Staff & Admin dashboards. Dark-themed UI with real-time incident tracking and AI-powered response coordination.
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 [Quanton](https://github.com/RahulNayak6467)
-**Real-Time Stock Market Dashboard**
-
-`React` `Vite` `TanStack Query` `Supabase` `Lightweight Charts`
-
-> Live stock tracking with watchlists (RLS-secured), gainers/losers feed, market news, and OAuth authentication. Clean charting with real-time data.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💱 [FXScope](https://github.com/RahulNayak6467)
-**Currency Tracker & Visualizer**
-
-`JavaScript` `Chart.js` `GSAP` `REST APIs`
-
-> Multi-API currency dashboard with animated charts, real-time exchange rates, and smooth GSAP transitions. Deployed on Netlify.
-
-</td>
-<td width="50%" valign="top">
-
-### 🗳️ [Voting System](https://github.com/RahulNayak6467)
-**Role-Based Election Platform**
-
-`Node.js` `Express` `MongoDB` `Mongoose` `JWT`
-
-> Three-role system (Voter, Candidate, Admin) with secure JWT authentication, real-time vote tallying, and MongoDB-backed persistence.
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🆘 ResQify</h4>
+      <p>Hotel emergency management platform with three user roles (Guest, Staff, Admin). AI-powered incident classification using Groq &amp; Gemini, real-time alerts, and role-based dashboards.</p>
+      <p><strong>Stack:</strong> React · Vite · TypeScript · Express · Supabase · Groq · Gemini</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📈 Quanton</h4>
+      <p>Stock market dashboard with live quotes, gainers/losers, and a personal watchlist backed by Supabase RLS and Realtime subscriptions.</p>
+      <p><strong>Stack:</strong> React · Vite · TanStack Query · Supabase · FMP API</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💱 FXScope</h4>
+      <p>Currency tracker with interactive charts, smooth GSAP animations, and multi-API integration — built from scratch in vanilla JavaScript.</p>
+      <p><strong>Stack:</strong> JavaScript · Chart.js · GSAP</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ CLI Project Scaffolder</h4>
+      <p>A Node.js CLI that bootstraps project templates in seconds. Published locally via <code>npm link</code> for a streamlined dev workflow.</p>
+      <p><strong>Stack:</strong> Node.js · fs · CLI</p>
+    </td>
+  </tr>
 </table>
-</div>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/RahulNayak6467?tab=repositories">
+    <img src="https://img.shields.io/badge/See%20all%20repos-00e5a0?style=for-the-badge&logo=github&logoColor=black" alt="all repos" />
+  </a>
+</p>
 
-## 📊 GitHub Analytics
+---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RahulNayak6467&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5a0&icon_color=00b4ff&text_color=c9d1d9&ring_color=00e5a0" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulNayak6467&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5a0&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</div>
+### 📊 GitHub Stats
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RahulNayak6467&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00e5a0&icon_color=00e5a0&text_color=c9d1d9" alt="stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulNayak6467&hide_border=true&background=0d1117&stroke=00e5a0&ring=00e5a0&fire=00e5a0&currStreakLabel=00e5a0&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="streak" height="170" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulNayak6467&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00e5a0&ring=00e5a0&fire=ff4d6a&currStreakLabel=00e5a0&sideLabels=00e5a0&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulNayak6467&layout=compact&hide_border=true&bg_color=0d1117&title_color=00e5a0&text_color=c9d1d9&langs_count=10" alt="top langs" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RahulNayak6467&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulNayak6467&bg_color=0d1117&color=00e5a0&line=00b4ff&point=ff4d6a&area=true&area_color=00e5a033&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-</div>
+---
 
-<br/>
+### 🐍 Contribution Graph
 
-## 🎯 What I'm Up To
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RahulNayak6467/RahulNayak6467/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rahul-nayak-78b414320/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/V8M72JYqDX/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" />
+  </a>
+  <a href="https://github.com/RahulNayak6467" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>✨ Thanks for stopping by — feel free to check out the pinned repos!</sub>
+</p>
