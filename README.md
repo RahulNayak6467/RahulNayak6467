@@ -111,9 +111,6 @@ const rahul = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulNayak6467&hide_border=true&background=0d1117&stroke=00e5a0&ring=00e5a0&fire=00e5a0&currStreakLabel=00e5a0&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="streak" height="170" />
 </p>
 
-[<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulNayak6467&layout=compact&hide_border=true&bg_color=0d1117&title_color=00e5a0&text_color=c9d1d9&langs_count=10" alt="top langs" />
-</p>](https://github-readme-stats.vercel.app/api?username=RahulNayak6467&show_icons=true&count_private=true&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=00e5a0&icon_color=00e5a0&text_color=c9d1d9)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulNayak6467&bg_color=0d1117&color=00e5a0&line=00e5a0&point=ffffff&area=true&hide_border=true" alt="activity graph" />
