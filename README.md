@@ -1,11 +1,9 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00E5A0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rahul+Nayak;Full-stack+dev+in+the+making;Always+shipping%2C+always+learning" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=800&color=00E5A0&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Rahul+Nayak+%F0%9F%91%8B;Frontend+dev+exploring+the+backend;Learning+in+public%2C+shipping+in+code;Always+building%2C+always+breaking+things" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <em>Backend-leaning full-stack developer. Building on the web, one repo at a time.</em>
+  <em>Frontend developer currently diving deep into backend. CS @ NIT Rourkela.</em>
 </p>
 
 <p align="center">
@@ -18,26 +16,47 @@
   </a>
 </p>
 
----
-
-### 🧭 About Me
-
-- 🎓 CS undergrad at **NIT Rourkela**
-- 💻 Focused on **full-stack development** with a lean toward the backend
-- 🧠 Currently sharpening **DSA** alongside shipping projects
-- 🌱 Learning in public — fundamentals first, frameworks second
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,vite,supabase&theme=dark" alt="stack row 1" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,npm,pnpm&theme=dark" alt="stack row 2" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RahulNayak6467/RahulNayak6467/output/github-contribution-grid-snake-dark.svg" alt="snake eating contributions" />
 </p>
 
-<p align="left">
+---
+
+<h3 align="left">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+  &nbsp;About Me
+</h3>
+
+```ts
+const rahul = {
+  location:  "India 🇮🇳",
+  studying:  "Computer Science @ NIT Rourkela",
+  focus:     "Frontend → Backend",
+  currently: ["Node.js internals", "Express", "Supabase", "DSA"],
+  philosophy: "fundamentals first, frameworks second",
+  funFact:   "I build naive versions before reaching for a library",
+};
+```
+
+- 🎓 CS undergrad at **NIT Rourkela**
+- 🌐 Comfortable on the **frontend**, now exploring the **backend**
+- 🧠 Sharpening **DSA** on the side (Striver's A2Z sheet)
+- 🌱 Always learning — one repo at a time
+
+---
+
+<h3 align="left">
+  <img src="https://media.giphy.com/media/W5LtgfJMQrLsc/giphy.gif" width="32" />
+  &nbsp;Tech Stack
+</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,vite,supabase&theme=dark" alt="stack row 1" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,nodejs&theme=dark" alt="stack row 2" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn" />
   <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="framer motion" />
   <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="tanstack query" />
@@ -46,7 +65,10 @@
 
 ---
 
-### 🚀 Featured Projects
+<h3 align="left">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32" />
+  &nbsp;Featured Projects
+</h3>
 
 <table>
   <tr>
@@ -83,7 +105,10 @@
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="left">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="32" />
+  &nbsp;GitHub Stats
+</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RahulNayak6467&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00e5a0&icon_color=00e5a0&text_color=c9d1d9" alt="stats" height="170" />
@@ -95,22 +120,17 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RahulNayak6467&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulNayak6467&bg_color=0d1117&color=00e5a0&line=00e5a0&point=ffffff&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
 
-### 🐍 Contribution Graph
+<h3 align="left">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" />
+  &nbsp;Connect With Me
+</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RahulNayak6467/RahulNayak6467/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
   <a href="https://www.linkedin.com/in/rahul-nayak-78b414320/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
@@ -123,5 +143,9 @@
 </p>
 
 <p align="center">
-  <sub>✨ Thanks for stopping by — feel free to check out the pinned repos!</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00e5a0&height=100&section=footer" alt="footer wave" />
+</p>
+
+<p align="center">
+  <sub>✨ Thanks for stopping by — don't forget to check out the pinned repos!</sub>
 </p>
