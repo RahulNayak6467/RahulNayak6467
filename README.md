@@ -1,16 +1,28 @@
-<div align="center">
+<h1 align="center">Hey, I'm Rahul Nayak 👋</h1>
 
-# Hey, I'm Rahul Nayak
+<h3 align="center">
+  Backend Developer • CS @ NIT Rourkela
+</h3>
 
-### CS @ NIT Rourkela · Backend Development · TypeScript
+<p align="center">
+  I enjoy building backend systems, working with databases and APIs, and understanding how software behaves beyond the happy path.
+</p>
 
-I enjoy building backend-heavy applications, learning how systems work underneath the abstractions, and solving DSA problems along the way.
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_LEETCODE_URL">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-RahulNayak6467-181717?style=flat-square\&logo=github)](https://github.com/RahulNayak6467)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul_Nayak-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/rahul-nayak-78b414320/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-V8M72JYqDX-FFA116?style=flat-square\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/V8M72JYqDX/)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RahulNayak6467&label=Profile%20Views&color=6e7681&style=flat" />
+</p>
 
 ---
 
@@ -18,322 +30,168 @@ I enjoy building backend-heavy applications, learning how systems work underneat
 
 ```ts
 const rahul = {
+  role: "Backend Developer",
   education: "Computer Science @ NIT Rourkela",
 
   interests: [
-    "Backend Development",
+    "Backend Engineering",
     "System Design",
-    "Developer Tools",
-    "Generative AI Applications",
-  ],
-
-  workingWith: [
-    "TypeScript",
-    "Node.js",
-    "Express",
-    "PostgreSQL",
-    "Redis",
-    "Docker",
+    "Distributed Systems",
+    "Developer Infrastructure",
   ],
 
   currentlyLearning: [
-    "Production Backend Practices",
     "Go",
     "System Design",
-    "Docker Internals",
+    "AWS",
+    "Kafka",
   ],
+
+  currentFocus: "Building backend systems that go beyond basic CRUD APIs",
 };
 ```
 
-I started with frontend development and gradually found myself more interested in what happens **behind the API**.
-
-These days, most of my time goes into understanding and building things around:
-
-* backend APIs and application architecture
-* PostgreSQL and data modelling
-* asynchronous/background processing
-* Redis and caching
-* Docker and deployment
-* TypeScript backend development
-* data structures and algorithms
-
-I'm also starting to learn **Go**, mainly to understand another approach to backend and systems programming.
+I primarily work with **TypeScript and Node.js**, with a growing focus on designing reliable backend systems, asynchronous workflows, databases, caching, deployment, and infrastructure.
 
 ---
 
-## What I'm Building
+## Tech Stack
 
-### Transflow
+### Languages
 
-> A video processing backend project I'm building to learn backend engineering beyond traditional CRUD applications.
-
-The project is being developed incrementally rather than starting with a large distributed architecture.
-
-Some of the areas I plan to explore through it include:
-
-```text
-Video Upload
-     │
-     ▼
-Backend API
-     │
-     ├──── Metadata ────► PostgreSQL
-     │
-     └──── Job ────────► Queue
-                          │
-                          ▼
-                       Worker
-                          │
-                          ▼
-                    Video Processing
-```
-
-The project is primarily a way for me to understand:
-
-* large file uploads
-* background jobs
-* queues
-* retries and failure handling
-* video processing workflows
-* storing file metadata
-* progress tracking
-* Dockerized services
-* production backend structure
-
-**Current core stack**
-
-`TypeScript` · `Node.js` · `Express` · `PostgreSQL` · `Redis` · `Docker`
-
----
-
-## Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛰️ OrbitX
-
-A satellite tracking application built during a hackathon.
-
-I worked primarily on the **TypeScript backend**, which collected and stored satellite information and communicated with a separate Python service used for orbital calculations.
-
-**What I worked with**
-
-* REST APIs
-* Express + TypeScript
-* PostgreSQL
-* scheduled data fetching
-* external APIs
-* communication between backend services
-* deployment
-
-**Stack**
-
-`TypeScript` · `Node.js` · `Express` · `PostgreSQL`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🆘 ResQify
-
-A hotel emergency-management platform with separate workflows for guests, staff, and administrators.
-
-The project also experimented with using LLM APIs for incident classification.
-
-**Features**
-
-* role-based interfaces
-* emergency reporting
-* incident classification
-* real-time application data
-
-**Stack**
-
-`React` · `TypeScript` · `Express` · `Supabase` · `Groq` · `Gemini`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📈 Quanton
-
-A stock-market dashboard for viewing market information and maintaining a personal watchlist.
-
-**Features**
-
-* market data fetching
-* gainers and losers
-* personal watchlists
-* realtime database updates
-
-**Stack**
-
-`React` · `Vite` · `TanStack Query` · `Supabase`
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ CLI Project Scaffolder
-
-A small Node.js CLI for automating repetitive project setup.
-
-It helped me explore Node.js outside traditional web-server development.
-
-**Worked with**
-
-* filesystem operations
-* command-line programs
-* project templates
-* local npm packages
-
-**Stack**
-
-`Node.js` · `JavaScript`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### [View all repositories →](https://github.com/RahulNayak6467?tab=repositories)
-
-</div>
-
----
-
-## Tech I Work With
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js" />
+</p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,postgres,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-`TypeScript` · `Node.js` · `Express` · `PostgreSQL` · `Redis`
-
-### Frontend
+### Databases & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker" />
 </p>
 
-`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Vite` · `Tailwind CSS`
-
-### Tools
+### Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,npm,pnpm,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
-
-`Git` · `GitHub` · `Docker` · `npm` · `pnpm`
 
 ---
 
 ## Currently Learning
 
-I prefer learning technologies by using them inside projects instead of collecting tools without understanding them.
+<p>
+  <img src="https://skillicons.dev/icons?i=go,aws,kafka" />
+</p>
 
-### Backend Engineering
+* **Go** — learning the language and its concurrency model
+* **System Design** — scalability, reliability, queues, caching and distributed architectures
+* **AWS** — building a stronger understanding of cloud infrastructure
+* **Kafka** — learning event-driven and distributed messaging architectures
+
+---
+
+## Featured Projects
+
+### Transflow
+
+**Distributed video processing and transcoding platform**
+
+A backend-focused system for handling large video uploads and asynchronous video-processing workflows.
+
+**Building around:**
+
+* Large-file uploads and object storage
+* Asynchronous transcoding jobs
+* Multiple video quality presets
+* HLS/DASH streaming
+* Job retries and failure handling
+* Processing progress and status tracking
+* PostgreSQL-backed metadata
+* Redis-powered background processing
+* Containerized services
+* Observability and production infrastructure
+
+`TypeScript` `Node.js` `Express` `PostgreSQL` `Redis` `BullMQ` `Docker` `AWS`
+
+> Currently building
+
+---
+
+### OrbitX
+
+**Satellite tracking and orbital-data platform**
+
+A satellite tracking application built around real orbital datasets with separate frontend, Node.js, Python and PostgreSQL services.
+
+**What it works with:**
+
+* CelesTrak satellite data
+* TLE orbital information
+* Satellite metadata persistence
+* Periodic background data updates
+* SGP4-based orbital calculations
+* Satellite position and orbital information
+* Multiple independently deployed services
+
+`TypeScript` `Node.js` `Express` `PostgreSQL` `Python` `Next.js` `Docker`
+
+> Built as a team hackathon project
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RahulNayak6467&show_icons=true&hide_border=true&count_private=true&theme=github_dark" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulNayak6467&hide_border=true&theme=github-dark-blue" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulNayak6467&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulNayak6467&theme=github-compact&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+## What I'm Exploring
 
 ```text
-APIs
-├── route design
-├── validation
-├── error handling
-└── service structure
-
-Databases
+Backend Engineering
+├── API Design
 ├── PostgreSQL
-├── SQL
-├── schema design
-├── indexes
-└── relationships
+├── Caching
+├── Background Jobs
+├── Message Queues
+├── Distributed Systems
+├── Observability
+└── Cloud Infrastructure
 
-Backend Infrastructure
-├── Redis
-├── background jobs
-├── Docker
-└── deployment
+Currently expanding into
+├── Go
+├── AWS
+├── Kafka
+└── System Design
 ```
 
-### Go
-
-I'm currently learning the fundamentals of Go before using it for larger projects.
-
-My focus right now is on:
-
-* Go syntax and type system
-* structs
-* interfaces
-* error handling
-* packages
-* goroutines and concurrency fundamentals
-
-Eventually, I want to use Go to build an **interpreter from scratch** as a deeper learning project.
-
 ---
 
-## DSA
+<p align="center">
+  <i>Interested in understanding how systems work, why they fail, and how to design them better.</i>
+</p>
 
-Alongside development, I regularly practice data structures and algorithms on LeetCode.
-
-My current focus includes:
-
-`Arrays` · `Two Pointers` · `Sliding Window` · `Binary Search` · `Prefix Sum` · `Hashing` · `Math`
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/View_my_LeetCode-FFA116?style=flat-square\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/V8M72JYqDX/)
-
-</div>
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RahulNayak6467&show_icons=true&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="160" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulNayak6467&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="160" />
-
-</div>
-
----
-
-## What I'm Interested In
-
-I'm especially interested in projects involving:
-
-* backend-heavy applications
-* APIs and databases
-* asynchronous processing
-* developer tooling
-* system design
-* LLM-powered applications
-
-Right now, my goal is less about learning as many technologies as possible and more about **getting genuinely comfortable building backend systems with the technologies I already use**.
-
----
-
-<div align="center">
-
-### Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rahul-nayak-78b414320/)
- 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/RahulNayak6467)
- 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/V8M72JYqDX/)
-
-<br/><br/>
-
-<sub>Learning by building, breaking, debugging, and building again.</sub>
-
-</div>
+<p align="center">
+  <b>Build → Break → Understand → Improve</b>
+</p>
