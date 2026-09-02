@@ -1,165 +1,94 @@
 <!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-# 👨‍💻 Rahul Nayak
+# Rahul Nayak
 
-### Backend Developer • Computer Science @ NIT Rourkela
+**Backend Developer** · Computer Science @ NIT Rourkela
+
+Building APIs, queues and infrastructure — and learning how systems behave past the happy path.
 
 <p>
-  Building backend systems, APIs and infrastructure while learning how scalable software behaves beyond the happy path.
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-6C63FF?style=for-the-badge" alt="Focus: Backend Engineering" />
+  <img src="https://img.shields.io/badge/Learning-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Learning Go" />
+  <img src="https://img.shields.io/badge/Into-Distributed%20Systems-8A2BE2?style=for-the-badge" alt="Into Distributed Systems" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Backend-Engineering-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Currently-Learning-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Interested%20In-Distributed%20Systems-8A2BE2?style=for-the-badge" />
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=RahulNayak6467&label=Views&style=flat-square&color=6C63FF" alt="Profile views" />
 </p>
-
-<p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Rahul%20Nayak-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="YOUR_LEETCODE_URL">
-    <img src="https://img.shields.io/badge/LeetCode-Rahul-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=RahulNayak6467&label=Profile+Views&style=flat-square&color=6C63FF" />
 
 </div>
 
 ---
 
-## ⚡ About Me
+## About
+
+I work on the parts of software users never see — APIs, databases, background jobs, caching and deployment. Right now I'm moving past CRUD and figuring out how real backends handle **scale, concurrency and failure**.
 
 ```ts
 const rahul = {
   role: "Backend Developer",
-
-  education: {
-    institute: "NIT Rourkela",
-    field: "Computer Science"
-  },
-
-  interestedIn: [
-    "Backend Engineering",
-    "System Design",
-    "Distributed Systems",
-    "Cloud Infrastructure"
-  ],
-
-  currentlyLearning: [
-    "Go",
-    "AWS",
-    "Kafka",
-    "System Design"
-  ],
-
-  philosophy: "Build → Break → Understand → Improve"
+  education: "CS @ NIT Rourkela",
+  workingOn: "Transflow — distributed video transcoding",
+  learning: ["Go", "System Design", "AWS", "Kafka"],
+  philosophy: "Build → Break → Understand → Improve",
 };
 ```
 
-I enjoy working on the parts of software that users usually don't see — **APIs, databases, asynchronous jobs, caching, infrastructure and system architecture**.
+---
 
-My current focus is moving beyond simple CRUD applications and understanding how production backend systems deal with **scale, failures, concurrency and reliability**.
+## Tech Stack
+
+**Daily driver**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,postgres,redis,docker,git,github,linux&theme=dark" alt="TypeScript, JavaScript, Node.js, Express, PostgreSQL, Redis, Docker, Git, GitHub, Linux" />
+  <br>
+  <img src="https://img.shields.io/badge/Zed-084CCF?style=flat-square&logo=zedindustries&logoColor=white" alt="Zed" />
+  <img src="https://img.shields.io/badge/Bruno-F4AA41?style=flat-square&logo=bruno&logoColor=black" alt="Bruno" />
+  <img src="https://img.shields.io/badge/BullMQ-DC382D?style=flat-square" alt="BullMQ" />
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm" />
+</p>
+
+**Currently learning**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,aws,kafka&theme=dark" alt="Go, AWS, Kafka" />
+</p>
+
+| Area | What I'm after |
+| --- | --- |
+| **Go** | Idiomatic Go, goroutines, channels, context |
+| **System Design** | Caching, queues, service boundaries, failure modes |
+| **AWS** | Deploying and operating backend services |
+| **Kafka** | Event-driven architecture and log-based messaging |
 
 ---
 
-# 🛠️ Tech Stack
+## Projects
 
-<div align="center">
+### Transflow — Distributed Video Processing Platform
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=ts,js&theme=dark" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-
-### Data & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=postgres,redis,docker&theme=dark" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
-
-</div>
-
----
-
-# 📚 Currently Exploring
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=go,aws,kafka&theme=dark" />
-
-</div>
-
-<br>
-
-| Area              | What I'm Learning                                                  |
-| ----------------- | ------------------------------------------------------------------ |
-| **Go**            | Language fundamentals, idiomatic Go and concurrency                |
-| **System Design** | Scalability, reliability, caching, queues and service architecture |
-| **AWS**           | Cloud infrastructure and deploying backend systems                 |
-| **Kafka**         | Event-driven systems and distributed messaging                     |
-
----
-
-# 🚀 Featured Projects
-
-## 🎬 Transflow
-
-### Distributed Video Processing & Transcoding Platform
-
-Backend-focused platform for handling large video uploads and asynchronous video processing workflows.
+Handles large video uploads and turns them into streamable renditions without blocking the request path.
 
 ```text
-Upload
-   │
-   ▼
-API Service
-   │
-   ├──────► PostgreSQL
-   │
-   ▼
-Job Queue
-   │
-   ▼
-Transcoding Workers
-   │
-   ├──────► Video Processing
-   │
-   ├──────► Multiple Resolutions
-   │
-   └──────► HLS / Streaming Output
-   │
-   ▼
-Object Storage
+Client ──▶ API (Express) ──▶ PostgreSQL  (metadata, job state)
+              │
+              ▼
+        Redis + BullMQ ──▶ Transcode Workers ──▶ HLS renditions
+                                  │                    │
+                          retries · progress           ▼
+                                               Object Storage
 ```
 
-### What I'm building
-
-* Large-file upload architecture
-* Asynchronous transcoding jobs
-* Background workers
-* Job retries and failure handling
-* Processing progress tracking
-* Multiple video quality presets
-* HLS-based streaming
-* PostgreSQL metadata storage
-* Redis-backed asynchronous workflows
-* Containerized services
-* Logging and observability
-* Cloud infrastructure
-
-### Stack
+- Chunked uploads for large files, with resumable state in Postgres
+- Queue-backed transcoding so the API stays responsive under load
+- Worker retries, dead-letter handling and per-job progress tracking
+- Multiple quality presets output as HLS for adaptive streaming
+- Containerised services with structured logging
 
 <p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -170,64 +99,26 @@ Object Storage
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-> 🚧 **Currently Building**
+🚧 **In progress** · [Repo →](YOUR_TRANSFLOW_REPO)
 
----
+<br>
 
-## 🛰️ OrbitX
+### OrbitX — Satellite Tracking & Orbital Data Platform
 
-### Satellite Tracking & Orbital Data Platform
-
-A satellite tracking platform built around real orbital data from **CelesTrak**, combining multiple backend services with orbital calculations and persistent satellite data.
+Ingests real orbital data from **CelesTrak** and computes live satellite positions across two backend services.
 
 ```text
-CelesTrak
-    │
-    ▼
-Node.js API
-    │
-    ├──────► PostgreSQL
-    │
-    │
-    └──────► Python Service
-                  │
-                  ▼
-              SGP4 Engine
-                  │
-                  ▼
-          Orbital Calculations
+CelesTrak (TLE) ──▶ Ingest Job ──▶ PostgreSQL ──▶ Node API ──▶ Next.js
+                                                     │  ▲
+                                                     ▼  │
+                                           Python service (SGP4)
+                                     position · velocity · altitude · period
 ```
 
-### Features
-
-* Satellite metadata ingestion
-* TLE orbital data processing
-* Periodic background data updates
-* Satellite history persistence
-* SGP4 orbital calculations
-* Altitude and velocity calculations
-* Orbital period calculations
-* Position data generation
-* Independently deployed backend services
-
-### Architecture
-
-```text
-Next.js Frontend
-       │
-       ▼
-TypeScript Backend
-       │
-       ├─────────► PostgreSQL
-       │
-       ▼
-Python Backend
-       │
-       ▼
-SGP4 Calculations
-```
-
-### Stack
+- Scheduled TLE ingestion with historical snapshots retained in Postgres
+- SGP4 propagation in a separate Python service, called by the Node API
+- Derived orbital metrics: altitude, velocity, orbital period, ground track
+- Two independently deployed backends behind a single frontend
 
 <p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -238,129 +129,50 @@ SGP4 Calculations
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 </p>
 
-> 🏆 **Team Hackathon Project**
+🏆 **Team hackathon project** · [Repo →](YOUR_ORBITX_REPO)
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulNayak6467&theme=github_dark" width="95%" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RahulNayak6467&theme=github_dark" width="46%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RahulNayak6467&theme=github_dark&utcOffset=5.5" width="46%" />
-
-</div>
-
----
-
-## 💻 Language Analytics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulNayak6467&theme=github_dark" width="46%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulNayak6467&theme=github_dark" width="46%" />
-
-</div>
-
-> Language charts reflect repository activity and should not be interpreted as a measure of proficiency.
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=RahulNayak6467&theme=github-dark-blue&hide_border=true" width="70%" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulNayak6467&theme=github-compact&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
-# 🧠 Backend Journey
+## Currently
 
 ```text
-                        BACKEND ENGINEERING
-                               │
-             ┌─────────────────┼─────────────────┐
-             │                 │                 │
-             ▼                 ▼                 ▼
-         API Design         Databases       Async Systems
-             │                 │                 │
-         Express           PostgreSQL          Redis
-             │                 │                 │
-      Error Handling        Raw SQL           BullMQ
-             │                 │                 │
-             └─────────────────┼─────────────────┘
-                               │
-                               ▼
-                         System Design
-                               │
-             ┌─────────────────┼─────────────────┐
-             │                 │                 │
-             ▼                 ▼                 ▼
-           Cloud        Distributed Systems    Go
-             │                 │                 │
-            AWS              Kafka          Concurrency
+├── Building Transflow — upload pipeline and worker reliability
+├── Learning Go, starting with concurrency primitives
+├── Working through system design fundamentals
+└── Daily DSA practice
 ```
 
 ---
 
-# 🎯 What I'm Focused On
-
-```text
-NOW
-│
-├── Building Transflow
-│
-├── Improving backend architecture
-│
-├── Learning Go
-│
-├── Studying system design
-│
-├── Improving DSA
-│
-└── Exploring distributed systems
-```
-
----
-
-# 🤝 Connect With Me
+## GitHub Activity
 
 <div align="center">
 
-Interested in **backend engineering, distributed systems, infrastructure or developer tooling?**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulNayak6467&theme=github_dark" width="95%" alt="GitHub profile summary" />
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=RahulNayak6467&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com?user=RahulNayak6467&theme=github-dark-blue&hide_border=true" height="165" alt="Contribution streak" />
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulNayak6467&theme=github-compact&hide_border=true&area=true" width="98%" alt="Contribution activity graph" />
 
-<a href="YOUR_LEETCODE_URL">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
+</div>
 
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<sub>Language and commit charts reflect repository activity, not proficiency.</sub>
+
+---
+
+<div align="center">
+
+## Let's talk
+
+Backend engineering, distributed systems, infrastructure or developer tooling — happy to chat.
+
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br><br>
 
-### `Build → Break → Understand → Improve`
+`Build → Break → Understand → Improve`
 
 </div>
