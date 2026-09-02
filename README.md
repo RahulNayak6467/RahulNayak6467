@@ -1,9 +1,13 @@
 <!-- ===================== HEADER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=130&section=header" width="100%" alt="" />
+
 <div align="center">
 
 # Rahul Nayak
 
-**Backend Developer** · Computer Science @ NIT Rourkela
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=520&height=40&lines=Backend+Developer;CS+%40+NIT+Rourkela;Building+Transflow+in+TypeScript;Learning+Go+and+distributed+systems" alt="Backend Developer · CS @ NIT Rourkela · Building Transflow · Learning Go and distributed systems" />
+</a>
 
 Building APIs, queues and infrastructure — and learning how systems behave past the happy path.
 
@@ -148,12 +152,21 @@ CelesTrak (TLE) ──▶ Ingest Job ──▶ PostgreSQL ──▶ Node API ─
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulNayak6467&theme=github_dark" width="95%" alt="GitHub profile summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulNayak6467&theme=github_dark" width="96%" alt="GitHub profile summary: contributions, public repos, join date" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=RahulNayak6467&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com?user=RahulNayak6467&theme=github-dark-blue&hide_border=true" height="165" alt="Contribution streak" />
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulNayak6467&theme=github-compact&hide_border=true&area=true" width="98%" alt="Contribution activity graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulNayak6467&theme=github_dark" width="47%" alt="Repositories per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulNayak6467&theme=github_dark" width="47%" alt="Most committed languages" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RahulNayak6467&theme=github_dark" width="47%" alt="Commit, PR and issue stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RahulNayak6467&theme=github_dark&utcOffset=5.5" width="47%" alt="Most productive time of day" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=RahulNayak6467&theme=github-dark-blue&hide_border=true" width="70%" alt="Contribution streak: total contributions, current streak, longest streak" />
 
 </div>
 
@@ -176,3 +189,5 @@ Backend engineering, distributed systems, infrastructure or developer tooling �
 `Build → Break → Understand → Improve`
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=130&section=footer" width="100%" alt="" />
